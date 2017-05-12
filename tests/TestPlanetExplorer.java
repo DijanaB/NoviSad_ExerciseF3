@@ -91,7 +91,8 @@ public class TestPlanetExplorer {
 		assertEquals(ocekivano,explorer.executeCommand("b"));
 		
 	}
-	@Test
+	
+	/*@Test
 	public void testOverEdgeBackwardX2(){
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
@@ -100,7 +101,8 @@ public class TestPlanetExplorer {
 		explorer.executeCommand("l");
 		assertEquals(ocekivano,explorer.executeCommand("f"));
 		
-	}
+	}*/
+	
 	
 	
 	
