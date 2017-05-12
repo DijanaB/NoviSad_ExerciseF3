@@ -129,3 +129,6 @@ RefactoringAction 1494615504662 TestPlanetExplorer.java RENAME testOverEdgeBackw
 EditAction 1494615517491 PlanetExplorer.java 2444 3 14 0
 EditAction 1494615540304 PlanetExplorer.java 2563 3 14 0
 EditAction 1494615547376 TestPlanetExplorer.java 2646 9 35 9
+UnitTestCaseAction 1494615553768 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615553770 TestPlanetExplorer.java FAIL
+EditAction 1494615576986 TestPlanetExplorer.java 2646 9 35 9
