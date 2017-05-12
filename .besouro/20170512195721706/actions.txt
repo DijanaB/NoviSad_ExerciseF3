@@ -59,3 +59,4 @@ RefactoringAction 1494614001344 TestPlanetExplorer.java RENAME test()=>void test
 RefactoringAction 1494614006893 TestPlanetExplorer.java RENAME testPrelazakIvice()=>void testOver() METHOD
 RefactoringAction 1494614011440 TestPlanetExplorer.java RENAME testOver()=>void testOverEdge() METHOD
 EditAction 1494614036143 TestPlanetExplorer.java 1042 3 13 3
+EditAction 1494614041114 TestPlanetExplorer.java 1042 3 13 3
