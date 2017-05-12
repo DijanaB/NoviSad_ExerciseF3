@@ -13,8 +13,8 @@ public class TestPlanetExplorer {
 	public void testOnceForward(){
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
-		
-		String ocekivano="0,1,N";
+		//"("+trenutnaX+","+trenutnaY+","+facing+")"
+		String ocekivano="(0,1,N)";
 		assertEquals(ocekivano,explorer.executeCommand("f"));
 		
 		
