@@ -78,6 +78,10 @@ public class PlanetExplorer {
 		{
 			facing="E";
 		}
+		if(command=="l")
+		{
+			facing="W";
+		}
 		
 		
 		return null;
