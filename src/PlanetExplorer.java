@@ -74,6 +74,10 @@ public class PlanetExplorer {
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
 			}
 		}
+		if(command=="r")
+		{
+			facing="E";
+		}
 		
 		
 		return null;
