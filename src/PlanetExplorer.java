@@ -1,6 +1,6 @@
 
 // Before you commit and push write your student ID and finish time here.
-// Finish time:
+// Finish time: 21:02
 // Student ID: IT5/2015
 
 
@@ -100,7 +100,7 @@ public class PlanetExplorer {
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
 			}
 		}
-		if(command=="r")
+		if(command=="r") 
 		{
 			facing="E";
 			return "("+trenutnaX+","+trenutnaY+","+facing+")";
