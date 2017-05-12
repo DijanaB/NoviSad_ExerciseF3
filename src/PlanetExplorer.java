@@ -8,6 +8,8 @@ public class PlanetExplorer {
 	
 	private int x;
 	private int y;
+	private int trenutnaX;
+	private int trenutnaY;
 	
 	public PlanetExplorer(int x, int y, String obstacles){
 	/*	x and y represent the size of the grid.
@@ -19,6 +21,7 @@ public class PlanetExplorer {
 	 */
 		this.x=x;
 		this.y=y;
+		
 		
 	}
 	

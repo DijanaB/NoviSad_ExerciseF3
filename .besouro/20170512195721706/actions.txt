@@ -9,3 +9,9 @@ EditAction 1494612613535 PlanetExplorer.java 1293 2 3 0
 RefactoringAction 1494612789098 PlanetExplorer.java ADD int x FIELD
 RefactoringAction 1494612789100 PlanetExplorer.java ADD int y FIELD
 EditAction 1494612805466 PlanetExplorer.java 1321 2 3 0
+RefactoringAction 1494612853444 PlanetExplorer.java ADD int trenutna FIELD
+RefactoringAction 1494612855991 PlanetExplorer.java RENAME trenutna=>int trenutnaX FIELD
+RefactoringAction 1494612862029 PlanetExplorer.java ADD int trnutna FIELD
+RefactoringAction 1494612867090 PlanetExplorer.java RENAME trnutna=>int trnutnaY FIELD
+RefactoringAction 1494612869631 PlanetExplorer.java RENAME trnutnaY=>int trenutnaY FIELD
+EditAction 1494612885053 PlanetExplorer.java 1372 2 3 0
