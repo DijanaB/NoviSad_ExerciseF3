@@ -1,2 +1,4 @@
 FileOpenedAction 1494611842291 PlanetExplorer.java 1245 2 1 0
 EditAction 1494612327256 PlanetExplorer.java 1254 2 1 0
+RefactoringAction 1494612519051 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+EditAction 1494612522123 PlanetExplorerException.java 105 1 0 0
