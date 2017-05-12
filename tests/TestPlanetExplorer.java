@@ -4,10 +4,10 @@ import org.junit.Test;
 
 public class TestPlanetExplorer {
 
-	@Test
+	/*@Test
 	public void test_executeCommand() {
 		fail("Not yet implemented");
-	}
+	}*/
 	
 	@Test
 	public void testOnceForward(){
