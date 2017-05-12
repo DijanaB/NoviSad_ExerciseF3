@@ -163,3 +163,9 @@ UnitTestSessionAction 1494616178786 TestPlanetExplorer.java OK
 UnitTestCaseAction 1494616178950 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494616178952 TestPlanetExplorer.java OK
 EditAction 1494616187536 TestPlanetExplorer.java 3338 10 43 10
+RefactoringAction 1494616238242 TestPlanetExplorer.java REMOVE testOverEdgeBackwardX2() METHOD
+RefactoringAction 1494616238244 TestPlanetExplorer.java REMOVE testOverEdgeForwardX2() METHOD
+RefactoringAction 1494616239785 TestPlanetExplorer.java ADD void testOverEdgeBackwardX2() METHOD
+RefactoringAction 1494616239789 TestPlanetExplorer.java ADD void testOverEdgeForwardX2() METHOD
+RefactoringAction 1494616239790 TestPlanetExplorer.java ADD void testOverEdgeBackwardX2()/2 METHOD
+EditAction 1494616240476 TestPlanetExplorer.java 3334 11 47 11

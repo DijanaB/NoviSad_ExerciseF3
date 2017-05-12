@@ -92,16 +92,16 @@ public class TestPlanetExplorer {
 		
 	}
 	
-	/*@Test
+	@Test
 	public void testOverEdgeBackwardX2(){
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
 		//"("+trenutnaX+","+trenutnaY+","+facing+")"
-		String ocekivano="(0,2,W)";
+		String ocekivano="(2,0,W)";
 		explorer.executeCommand("l");
 		assertEquals(ocekivano,explorer.executeCommand("f"));
 		
-	}*/
+	}
 	@Test
 	public void testOverEdgeForwardX2(){
 		
