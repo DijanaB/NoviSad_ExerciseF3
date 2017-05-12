@@ -93,7 +93,7 @@ public class TestPlanetExplorer {
 	}
 	
 	@Test
-	public void testOverEdgeBackwardX2(){
+	public void testOverEdgeBackwardX3(){
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
 		//"("+trenutnaX+","+trenutnaY+","+facing+")"
