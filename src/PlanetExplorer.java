@@ -60,6 +60,10 @@ public class PlanetExplorer {
 				trenutnaX=0;
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
 				
+			}else if(trenutnaX==0&&facing=="W"){
+				
+				trenutnaX=x-1;
+				return "("+trenutnaX+","+trenutnaY+","+facing+")";
 			}
 			else{
 				
