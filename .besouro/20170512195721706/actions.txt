@@ -99,3 +99,6 @@ EditAction 1494614547445 PlanetExplorer.java 2265 3 14 0
 RefactoringAction 1494614566122 TestPlanetExplorer.java ADD void testOverEdgeForward()/2 METHOD
 RefactoringAction 1494614570181 TestPlanetExplorer.java RENAME testOverEdgeForward()/2=>void testOverEdgeForwardX() METHOD
 EditAction 1494614601509 TestPlanetExplorer.java 2095 7 28 7
+UnitTestCaseAction 1494614606632 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614606634 TestPlanetExplorer.java FAIL
+EditAction 1494614692847 PlanetExplorer.java 2265 3 14 0
