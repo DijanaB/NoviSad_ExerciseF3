@@ -50,7 +50,11 @@ public class PlanetExplorer {
 		 */
 		if(command=="f")
 		{
-			
+			if(trenutnaY==y)
+			{
+				trenutnaY=0;
+				return "("+trenutnaX+","+trenutnaY+","+facing+")";
+			}
 			trenutnaY++;
 			return "("+trenutnaX+","+trenutnaY+","+facing+")";
 		}
