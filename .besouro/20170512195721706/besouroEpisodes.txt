@@ -230,3 +230,12 @@
 1494613730694 refactoring 3 1888 true
 1494613730695 refactoring 3 1888 true
 1494613730696 refactoring 3 1888 true
+1494613752209 refactoring 3 10 true
+1494613752210 refactoring 1B 10 true
+1494613752211 refactoring 3 10 true
+1494613752212 refactoring 2B 10 true
+1494613752213 refactoring 3 10 true
+1494613752214 refactoring 3 10 true
+1494613752215 refactoring 1B 10 true
+1494613752216 refactoring 2B 10 true
+1494613752217 regression 1 10 true

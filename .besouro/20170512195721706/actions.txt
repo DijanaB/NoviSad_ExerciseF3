@@ -43,3 +43,6 @@ UnitTestSessionAction 1494613730465 TestPlanetExplorer.java OK
 RefactoringAction 1494613741781 TestPlanetExplorer.java RENAME testOnceForward()=>void testOnceForwardW() METHOD
 RefactoringAction 1494613746315 TestPlanetExplorer.java RENAME testOnceForwardW()=>void testOnceForwardWithoutObstacles() METHOD
 EditAction 1494613746583 TestPlanetExplorer.java 430 1 3 1
+UnitTestCaseAction 1494613752207 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613752209 TestPlanetExplorer.testOnceForwardWithoutObstacles OK
+EditAction 1494613790458 PlanetExplorer.java 1768 3 12 0
