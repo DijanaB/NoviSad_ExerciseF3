@@ -55,8 +55,11 @@ public class PlanetExplorer {
 				trenutnaY=0;
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
 			}
-			trenutnaY++;
-			return "("+trenutnaX+","+trenutnaY+","+facing+")";
+			else{
+				
+				trenutnaY++;
+				return "("+trenutnaX+","+trenutnaY+","+facing+")";
+			}
 		}
 		if(command=="b")
 		{
