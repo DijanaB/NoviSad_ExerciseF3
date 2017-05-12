@@ -10,15 +10,12 @@ public class TestPlanetExplorer {
 	}*/
 	
 	@Test
-	public void testOnceForward(){
+	public void testOnceForwardWithoutObstacles(){
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
 		//"("+trenutnaX+","+trenutnaY+","+facing+")"
 		String ocekivano="(0,1,N)";
 		assertEquals(ocekivano,explorer.executeCommand("f"));
-		
-		
-		
 		
 	}
 }
