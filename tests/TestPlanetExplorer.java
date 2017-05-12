@@ -122,7 +122,7 @@ public class TestPlanetExplorer {
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
 		//"("+trenutnaX+","+trenutnaY+","+facing+")"
-		String ocekivano="(0,0,E)";
+		String ocekivano="(0,0,W)";
 		explorer.executeCommand("l");
 		explorer.executeCommand("b");
 		explorer.executeCommand("b");
