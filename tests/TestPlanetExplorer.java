@@ -37,7 +37,8 @@ public class TestPlanetExplorer {
 		String ocekivano="(0,0,N)";
 		explorer.executeCommand("f");
 		explorer.executeCommand("f");
-		explorer.executeCommand("f");
+	
+		//explorer.executeCommand("f");
 		assertEquals(ocekivano,explorer.executeCommand("f"));
 		
 	}
