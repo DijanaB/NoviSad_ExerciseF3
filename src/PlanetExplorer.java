@@ -67,9 +67,10 @@ public class PlanetExplorer {
 			{
 				trenutnaY=x;
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
-			}
+			}else{
 			trenutnaY--;
 			return "("+trenutnaX+","+trenutnaY+","+facing+")";
+			}
 		}
 		
 		
