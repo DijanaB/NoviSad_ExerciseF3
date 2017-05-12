@@ -88,6 +88,7 @@ public class PlanetExplorer {
 		if(command=="l")
 		{
 			facing="W";
+			return "("+trenutnaX+","+trenutnaY+","+facing+")";
 			
 		}
 		
