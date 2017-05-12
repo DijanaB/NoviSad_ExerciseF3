@@ -66,3 +66,7 @@ EditAction 1494614082956 PlanetExplorer.java 1985 3 12 0
 EditAction 1494614094233 PlanetExplorer.java 1995 3 12 0
 EditAction 1494614101951 PlanetExplorer.java 1997 3 12 0
 EditAction 1494614109988 PlanetExplorer.java 2007 3 12 0
+RefactoringAction 1494614120297 TestPlanetExplorer.java ADD void testOverEdge()/2 METHOD
+RefactoringAction 1494614123358 TestPlanetExplorer.java RENAME testOverEdge()/2=>void testOverEdgeForward() METHOD
+RefactoringAction 1494614126418 TestPlanetExplorer.java RENAME testOverEdge()=>void testOverEdgeBackward() METHOD
+EditAction 1494614178134 TestPlanetExplorer.java 1290 4 16 4

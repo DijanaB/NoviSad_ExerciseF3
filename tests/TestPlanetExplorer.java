@@ -30,7 +30,7 @@ public class TestPlanetExplorer {
 	}
 	
 	@Test
-	public void testOverEdge(){
+	public void testOverEdgeForward(){
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
 		//"("+trenutnaX+","+trenutnaY+","+facing+")"
@@ -39,6 +39,16 @@ public class TestPlanetExplorer {
 		explorer.executeCommand("f");
 		explorer.executeCommand("f");
 		assertEquals(ocekivano,explorer.executeCommand("f"));
+		
+	}
+	
+	@Test
+	public void testOverEdgeBackward(){
+		
+		PlanetExplorer explorer = new PlanetExplorer(3,3);
+		//"("+trenutnaX+","+trenutnaY+","+facing+")"
+		String ocekivano="(0,2,N)";
+		assertEquals(ocekivano,explorer.executeCommand("b"));
 		
 	}
 }
