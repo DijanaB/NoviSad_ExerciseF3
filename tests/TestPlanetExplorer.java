@@ -69,5 +69,18 @@ public class TestPlanetExplorer {
 		assertEquals(ocekivano,explorer.executeCommand("l"));
 		
 	}
+	@Test
+	public void testOverEdgeForwardX(){
+		
+		PlanetExplorer explorer = new PlanetExplorer(3,3);
+		//"("+trenutnaX+","+trenutnaY+","+facing+")"
+		String ocekivano="(0,0,E)";
+		explorer.executeCommand("r");
+		explorer.executeCommand("f");
+		explorer.executeCommand("f");
+		assertEquals(ocekivano,explorer.executeCommand("f"));
+		
+	}
+	
 	
 }
