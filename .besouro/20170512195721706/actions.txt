@@ -75,3 +75,8 @@ UnitTestCaseAction 1494614188667 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494614188670 TestPlanetExplorer.java OK
 EditAction 1494614247589 PlanetExplorer.java 2051 3 13 0
 EditAction 1494614317765 PlanetExplorer.java 2093 3 14 0
+RefactoringAction 1494614327358 TestPlanetExplorer.java ADD void testOverEdgeBackward()/2 METHOD
+RefactoringAction 1494614332900 TestPlanetExplorer.java RENAME testOverEdgeBackward()/2=>void testFacing() METHOD
+RefactoringAction 1494614334448 TestPlanetExplorer.java RENAME testFacing()=>void testFacingE() METHOD
+RefactoringAction 1494614336024 TestPlanetExplorer.java RENAME testFacingE()=>void testFacingEast() METHOD
+EditAction 1494614351498 TestPlanetExplorer.java 1525 5 19 5

@@ -51,4 +51,14 @@ public class TestPlanetExplorer {
 		assertEquals(ocekivano,explorer.executeCommand("b"));
 		
 	}
+	@Test
+	public void testFacingEast(){
+		
+		PlanetExplorer explorer = new PlanetExplorer(3,3);
+		//"("+trenutnaX+","+trenutnaY+","+facing+")"
+		String ocekivano="(0,0,E)";
+		assertEquals(ocekivano,explorer.executeCommand("r"));
+		
+	}
+	
 }
