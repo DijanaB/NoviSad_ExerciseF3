@@ -6,3 +6,6 @@ RefactoringAction 1494612537659 PlanetExplorerException.java ADD String toString
 RefactoringAction 1494612539173 PlanetExplorerException.java RENAME toString=>String toString() METHOD
 EditAction 1494612545197 PlanetExplorerException.java 151 2 1 0
 EditAction 1494612613535 PlanetExplorer.java 1293 2 3 0
+RefactoringAction 1494612789098 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612789100 PlanetExplorer.java ADD int y FIELD
+EditAction 1494612805466 PlanetExplorer.java 1321 2 3 0
