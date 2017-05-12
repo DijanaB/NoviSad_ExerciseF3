@@ -86,7 +86,7 @@ public class TestPlanetExplorer {
 		
 		PlanetExplorer explorer = new PlanetExplorer(3,3);
 		//"("+trenutnaX+","+trenutnaY+","+facing+")"
-		String ocekivano="(0,2,E)";
+		String ocekivano="(2,0,E)";
 		explorer.executeCommand("r");
 		assertEquals(ocekivano,explorer.executeCommand("b"));
 		

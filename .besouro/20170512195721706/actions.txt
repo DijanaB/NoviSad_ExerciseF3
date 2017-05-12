@@ -173,3 +173,8 @@ CompilationAction 1494616243504 TestPlanetExplorer.java
 RefactoringAction 1494616252917 TestPlanetExplorer.java RENAME testOverEdgeBackwardX2()/2=>void testOverEdgeBackwardX()/2 METHOD
 RefactoringAction 1494616253958 TestPlanetExplorer.java RENAME testOverEdgeBackwardX()/2=>void testOverEdgeBackwardX3() METHOD
 EditAction 1494616254994 TestPlanetExplorer.java 3334 11 47 11
+UnitTestCaseAction 1494616259660 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616259662 TestPlanetExplorer.testOverEdgeBackwardX3 OK
+UnitTestCaseAction 1494616271484 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616271485 TestPlanetExplorer.java OK
+EditAction 1494616318659 TestPlanetExplorer.java 3334 11 47 11

@@ -302,3 +302,8 @@
 1494615984218 test-addition 1 56 true
 1494616178786 test-last 1 57 false
 1494616178952 regression 1 0 true
+1494616259662 test-addition 1 72 true
+1494616259663 test-addition 1 72 true
+1494616259664 test-addition 1 72 true
+1494616259665 test-addition 1 72 true
+1494616271485 regression 1 0 true
