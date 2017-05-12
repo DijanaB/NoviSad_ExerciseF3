@@ -53,3 +53,9 @@ UnitTestCaseAction 1494613829727 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494613829731 TestPlanetExplorer.java OK
 EditAction 1494613921684 PlanetExplorer.java 1866 3 12 0
 EditAction 1494613938185 PlanetExplorer.java 1887 3 12 0
+RefactoringAction 1494613959788 TestPlanetExplorer.java ADD void testOnceBackwardWithoutObstacles()/2 METHOD
+RefactoringAction 1494613963315 TestPlanetExplorer.java RENAME testOnceBackwardWithoutObstacles()/2=>void test() METHOD
+RefactoringAction 1494614001344 TestPlanetExplorer.java RENAME test()=>void testPrelazakIvice() METHOD
+RefactoringAction 1494614006893 TestPlanetExplorer.java RENAME testPrelazakIvice()=>void testOver() METHOD
+RefactoringAction 1494614011440 TestPlanetExplorer.java RENAME testOver()=>void testOverEdge() METHOD
+EditAction 1494614036143 TestPlanetExplorer.java 1042 3 13 3
