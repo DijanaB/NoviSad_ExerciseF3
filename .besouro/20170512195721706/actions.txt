@@ -46,3 +46,6 @@ EditAction 1494613746583 TestPlanetExplorer.java 430 1 3 1
 UnitTestCaseAction 1494613752207 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494613752209 TestPlanetExplorer.testOnceForwardWithoutObstacles OK
 EditAction 1494613790458 PlanetExplorer.java 1768 3 12 0
+RefactoringAction 1494613799918 TestPlanetExplorer.java ADD void testOnceForwardWithoutObstacles()/2 METHOD
+RefactoringAction 1494613804960 TestPlanetExplorer.java RENAME testOnceForwardWithoutObstacles()/2=>void testOnceBackwardWithoutObstacles() METHOD
+EditAction 1494613824825 TestPlanetExplorer.java 713 2 7 2

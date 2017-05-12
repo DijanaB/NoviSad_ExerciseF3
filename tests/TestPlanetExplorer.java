@@ -18,4 +18,14 @@ public class TestPlanetExplorer {
 		assertEquals(ocekivano,explorer.executeCommand("f"));
 		
 	}
+	@Test
+	public void testOnceBackwardWithoutObstacles(){
+		
+		PlanetExplorer explorer = new PlanetExplorer(3,3);
+		//"("+trenutnaX+","+trenutnaY+","+facing+")"
+		String ocekivano="(0,0,N)";
+		explorer.executeCommand("f");
+		assertEquals(ocekivano,explorer.executeCommand("b"));
+		
+	}
 }
