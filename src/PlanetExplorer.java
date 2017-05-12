@@ -74,7 +74,12 @@ public class PlanetExplorer {
 				trenutnaY=x-1;
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
 				
-			}else{
+			}else if(trenutnaX==0){
+				
+				trenutnaX=x-1;
+				return "("+trenutnaX+","+trenutnaY+","+facing+")";
+			}
+			else{
 				
 				trenutnaY--;
 				return "("+trenutnaX+","+trenutnaY+","+facing+")";
