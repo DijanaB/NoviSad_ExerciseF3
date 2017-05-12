@@ -80,3 +80,6 @@ RefactoringAction 1494614332900 TestPlanetExplorer.java RENAME testOverEdgeBackw
 RefactoringAction 1494614334448 TestPlanetExplorer.java RENAME testFacing()=>void testFacingE() METHOD
 RefactoringAction 1494614336024 TestPlanetExplorer.java RENAME testFacingE()=>void testFacingEast() METHOD
 EditAction 1494614351498 TestPlanetExplorer.java 1525 5 19 5
+UnitTestCaseAction 1494614358308 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614358310 TestPlanetExplorer.java FAIL
+EditAction 1494614383176 PlanetExplorer.java 2201 3 14 0
