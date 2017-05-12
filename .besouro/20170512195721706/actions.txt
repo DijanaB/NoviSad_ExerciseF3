@@ -178,3 +178,6 @@ UnitTestSessionAction 1494616259662 TestPlanetExplorer.testOverEdgeBackwardX3 OK
 UnitTestCaseAction 1494616271484 TestPlanetExplorer.java OK
 UnitTestSessionAction 1494616271485 TestPlanetExplorer.java OK
 EditAction 1494616318659 TestPlanetExplorer.java 3334 11 47 11
+UnitTestCaseAction 1494616323917 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616323918 TestPlanetExplorer.java FAIL
+EditAction 1494616413118 PlanetExplorer.java 2816 3 14 0
