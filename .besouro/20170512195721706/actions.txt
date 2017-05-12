@@ -89,3 +89,4 @@ RefactoringAction 1494614394747 TestPlanetExplorer.java ADD void testFacingEast(
 RefactoringAction 1494614398800 TestPlanetExplorer.java RENAME testFacingEast()/2=>void testFacingt() METHOD
 RefactoringAction 1494614400342 TestPlanetExplorer.java RENAME testFacingt()=>void testFacingWest() METHOD
 EditAction 1494614400944 TestPlanetExplorer.java 1758 6 22 6
+EditAction 1494614412949 TestPlanetExplorer.java 1758 6 22 6
