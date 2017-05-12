@@ -149,3 +149,6 @@ RefactoringAction 1494615934959 TestPlanetExplorer.java RENAME testOverEdgeForwa
 RefactoringAction 1494615937508 TestPlanetExplorer.java RENAME testOverEdgeForwarddX()=>void testOverEdgeForwardX()/2 METHOD
 RefactoringAction 1494615940070 TestPlanetExplorer.java RENAME testOverEdgeForwardX()/2=>void testOverEdgeForwardX2() METHOD
 EditAction 1494615965337 TestPlanetExplorer.java 2999 9 37 9
+UnitTestCaseAction 1494615984216 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615984217 TestPlanetExplorer.java OK
+EditAction 1494616120813 PlanetExplorer.java 2811 3 14 0
