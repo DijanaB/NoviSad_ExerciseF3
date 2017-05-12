@@ -126,9 +126,6 @@ public class TestPlanetExplorer {
 		explorer.executeCommand("l");
 		explorer.executeCommand("b");
 		explorer.executeCommand("b");
-		
-		
-		
 		assertEquals(ocekivano,explorer.executeCommand("b"));
 		
 	}
