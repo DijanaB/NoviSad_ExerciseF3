@@ -15,3 +15,8 @@ RefactoringAction 1494612862029 PlanetExplorer.java ADD int trnutna FIELD
 RefactoringAction 1494612867090 PlanetExplorer.java RENAME trnutna=>int trnutnaY FIELD
 RefactoringAction 1494612869631 PlanetExplorer.java RENAME trnutnaY=>int trenutnaY FIELD
 EditAction 1494612885053 PlanetExplorer.java 1372 2 3 0
+RefactoringAction 1494612926702 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494612935220 TestPlanetExplorer.java RENAME test=>void testStartPosition FIELD
+RefactoringAction 1494612936240 TestPlanetExplorer.java RENAME testStartPosition=>void testStartPosition() METHOD
+RefactoringAction 1494612985005 PlanetExplorer.java ADD String obstacles FIELD
+EditAction 1494612995960 PlanetExplorer.java 1449 2 6 0
